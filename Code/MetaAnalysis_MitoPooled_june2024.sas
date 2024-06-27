@@ -1,4 +1,4 @@
-
+/*In this file, mitopooled is named "mixedmarkers" (name outputs) or "Mito" (variable name)*/
 
 
 /*********************************************************************************************************/
